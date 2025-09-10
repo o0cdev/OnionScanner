@@ -1,0 +1,16 @@
+requests==2.31.0
+colorama==0.4.6
+beautifulsoup4==4.12.2
+urllib3==2.0.7
+lxml==4.9.3
+selenium==4.15.2
+scapy==2.5.0
+python-nmap==0.7.1
+paramiko==3.3.1
+cryptography==41.0.7
+pycryptodome==3.19.0
+dnspython==2.4.2
+netaddr==0.10.1
+python-whois==0.8.0
+shodan==1.30.1
+censys==2.2.4
