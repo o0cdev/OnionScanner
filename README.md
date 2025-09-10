@@ -15,7 +15,8 @@ Created by **o0c** - Professional web security testing tool
 - **Colored Interface** - Clean terminal interface
 - **Real-time Results** - Instant vulnerability reporting
 
-https://media.discordapp.net/attachments/1413884607023157269/1415425844654116945/image.png?ex=68c3298a&is=68c1d80a&hm=10c502f746e486098ddb59b097d8c3bd1159cfbf3c2d81c49f8c1577a723c36d&=&format=webp&quality=lossless
+![صورة](https://media.discordapp.net/attachments/1413884607023157269/1415425844654116945/image.png?ex=68c3298a&is=68c1d80a&hm=10c502f746e486098ddb59b097d8c3bd1159cfbf3c2d81c49f8c1577a723c36d&=&format=webp&quality=lossless)
+
 ### Installation
 
 1. Clone the repository:
